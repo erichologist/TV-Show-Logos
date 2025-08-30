@@ -110,7 +110,6 @@ ____
 | [![Brooklyn Nine Nine](https://i.imgur.com/6eCGJBr.png)](https://i.imgur.com/6eCGJBr.png) | Brooklyn Nine Nine | 1024px | 566px |   | min | https://imgur.com/6eCGJBr | https://i.imgur.com/6eCGJBr.png |
 | [![Brooklyn Nine Nine Team](https://i.imgur.com/iJTg0lD.png)](https://i.imgur.com/iJTg0lD.png) | Brooklyn Nine Nine Team | 500px | 438px |   | min | https://imgur.com/iJTg0lD | https://i.imgur.com/iJTg0lD.png |
 | [![Bunk'd](https://i.imgur.com/ncTynjm.png)](https://i.imgur.com/ncTynjm.png) | Bunk'd | 800px | 534px |   | min | https://imgur.com/ncTynjm | https://i.imgur.com/ncTynjm.png |
-| [![Button Top Cutout](https://i.imgur.com/HeUgoSS.png)](https://i.imgur.com/HeUgoSS.png) | Button Top Cutout |   |   |   | min | https://imgur.com/HeUgoSS | https://i.imgur.com/HeUgoSS.png |
 | [![Californication](https://i.imgur.com/S7qzs1i.png)](https://i.imgur.com/S7qzs1i.png) | Californication | 800px | 310px |   | min | https://imgur.com/S7qzs1i | https://i.imgur.com/S7qzs1i.png |
 | [![Camping](https://i.imgur.com/kAdzRKV.png)](https://i.imgur.com/kAdzRKV.png) | Camping | 800px | 396px |   | min | https://imgur.com/kAdzRKV | https://i.imgur.com/kAdzRKV.png |
 | [![Caprica](https://i.imgur.com/SobgaRg.png)](https://i.imgur.com/SobgaRg.png) | Caprica | 916px | 186px |   | min | https://imgur.com/SobgaRg | https://i.imgur.com/SobgaRg.png |
